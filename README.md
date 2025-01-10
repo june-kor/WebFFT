@@ -86,4 +86,4 @@ fft.dispose(); // Wasm 정리
 ------
 
 궁금한 점이 있다면 말씀해주세요!
-[WebFFT 공식 웹사이트](https://webfft.com/)를 참조하거나 [여기](https://gptonline.ai/ko/)를 방문하세요.
+[WebFFT 공식 웹사이트](https://webfft.com/)를 방문하세요.
